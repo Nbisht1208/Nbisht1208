@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neeraj Singh</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Engineer Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nbisht1208&label=Profile%20views&color=0e75b6&style=flat" alt="nbisht1208" /> </p>
 
